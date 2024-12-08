@@ -3,7 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>VGZ</title>
+
+      <!-- Primary Meta Tags -->
+      <title>𝑽𝑮𝒁 | 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 | 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲</title>
+      <meta name="title" content="𝑽𝑮𝒁 | 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 | 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲">
+      <meta name="description" content="">
+      
+      <!-- Open Graph / Facebook -->
+      <meta property="og:type" content="website">
+      <meta property="og:url" content="https://vgzproject.websr.fr/">
+      <meta property="og:title" content="𝑽𝑮𝒁 | 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 | 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲">
+      <meta property="og:description" content="">
+      <meta property="og:image" content="https://vgzproject.websr.fr/assets/6BWUY10NOL.png">
+      
+      <!-- Twitter -->
+      <meta property="twitter:card" content="summary_large_image">
+      <meta property="twitter:url" content="https://vgzproject.websr.fr/">
+      <meta property="twitter:title" content="𝑽𝑮𝒁 | 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 | 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲">
+      <meta property="twitter:description" content="">
+      <meta property="twitter:image" content="https://vgzproject.websr.fr/assets/6BWUY10NOL.png">
+      
+      <!-- Optional Meta Tags -->
+      <meta name="keywords" content="">
+      <meta name="robots" content="index, follow">
+      <meta http-equiv="Content-Type" content="text/html; charset=">
+      <meta name="language" content="">
+      <meta name="revisit-after" content=" days">
+      <meta name="author" content="">
+    
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
         @font-face {
